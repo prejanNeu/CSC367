@@ -28,6 +28,7 @@ namespace Lab12
             }
 
             sr.Close();
+            Console.WriteLine("Prejan Neupane\n28073/078");
 
 
 
