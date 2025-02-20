@@ -1,0 +1,15 @@
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/bin/Debug/net8.0/lab16
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/bin/Debug/net8.0/lab16.deps.json
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/bin/Debug/net8.0/lab16.runtimeconfig.json
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/bin/Debug/net8.0/lab16.dll
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/bin/Debug/net8.0/lab16.pdb
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.GeneratedMSBuildEditorConfig.editorconfig
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.AssemblyInfoInputs.cache
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.AssemblyInfo.cs
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.csproj.CoreCompileInputs.cache
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.sourcelink.json
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.dll
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/refint/lab16.dll
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.pdb
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/lab16.genruntimeconfig.cache
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab16/obj/Debug/net8.0/ref/lab16.dll

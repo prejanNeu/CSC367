@@ -9,7 +9,7 @@ namespace lab14
             // lambda expression 
 
             Console.WriteLine("<------lambda expression ------->");
-
+            
             Func<int, int> square = x=>x*x;
             Console.WriteLine(square(3));
 

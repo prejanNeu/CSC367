@@ -16,12 +16,10 @@ namespace Lab12
             sw.Flush();
             sw.Close();
 
-
-
             StreamReader sr = new StreamReader("hello.txt");
 
             sr.BaseStream.Seek(0,SeekOrigin.Begin); //move file pointer to the begining of the file 
-            string text = sr.ReadLine();
+            string text = sr.ReadLine(); 
 
             while (text!=null)
             {
