@@ -12,3 +12,4 @@
 /home/prezz/Programming/Csharp/prejan_ncc_lab/lab4/obj/Debug/net8.0/lab4.pdb
 /home/prezz/Programming/Csharp/prejan_ncc_lab/lab4/obj/Debug/net8.0/lab4.genruntimeconfig.cache
 /home/prezz/Programming/Csharp/prejan_ncc_lab/lab4/obj/Debug/net8.0/ref/lab4.dll
+/home/prezz/Programming/Csharp/prejan_ncc_lab/lab4/obj/Debug/net8.0/lab4.sourcelink.json

@@ -33,7 +33,7 @@ namespace Lab11
             Generic<double> obj3 = new Generic<double> ();
             obj3.value= 5.999;
             Console.WriteLine(obj3.value);
-
+            Console.WriteLine("Prejan Neupane\n28073/078");
 
         }
     }

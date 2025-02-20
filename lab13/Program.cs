@@ -17,6 +17,8 @@ namespace lab13
             {
                 Console.WriteLine(item);
             }
+
+            Console.WriteLine("Prejan Neupane\n28073/078");
         }
     }
 }

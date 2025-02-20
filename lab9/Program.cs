@@ -85,6 +85,7 @@ namespace Lab9
 
             pub.onCompleted += sub.EventHandler;
             pub.Process();
+            Console.WriteLine("Prejan Neupane\n28073/078");
         }
     }
 }

@@ -47,6 +47,7 @@ namespace Lab8
             Class1 obj = new Class1();
             obj.Display();
             obj.Show();
+            Console.WriteLine("Prejan Neupane\n28073/078");
 
         }
     }

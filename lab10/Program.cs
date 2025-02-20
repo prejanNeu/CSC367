@@ -33,6 +33,8 @@ namespace Lab10
                 Console.WriteLine(num);
             }
 
+            Console.WriteLine("Prejan Neupane\n28073/078");
+
             
         }
     }

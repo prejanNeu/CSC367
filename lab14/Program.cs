@@ -30,6 +30,8 @@ namespace lab14
                 Console.WriteLine(evennum);
             }
 
+            Console.WriteLine("Prejan Neupane\n28073/078");
+
         }
     }
 }
